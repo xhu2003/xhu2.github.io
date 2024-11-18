@@ -1,2 +1,3 @@
 # xhu2.github.io
-This is Carina's personal website under development 
+This is Carina's personal website 
+Showcasing the photography hobby
